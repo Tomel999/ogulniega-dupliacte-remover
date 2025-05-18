@@ -55,7 +55,6 @@ W tym przykładzie `mod1-1.0.0.jar` zostanie usunięty z folderu `moj-profil`, p
 
 ## ✍️ Kontakt
 **Discord: tomel999**  
-Projekt stworzony dla ułatwienia zarządzania modami w środowisku Minecrafta.
 
 ## ⚠️ Uwaga
 
