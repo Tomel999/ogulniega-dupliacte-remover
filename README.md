@@ -53,9 +53,7 @@ W tym przykładzie `mod1-1.0.0.jar` zostanie usunięty z folderu `moj-profil`, p
 - Interfejs w terminalu z wyborem folderów
 - Bezpieczne potwierdzenie przed usunięciem
 
-## ✍️ Autor
-
-**tomel999**
+## ✍️ Kontakt
 **Discord: tomel999**  
 Projekt stworzony dla ułatwienia zarządzania modami w środowisku Minecrafta.
 
