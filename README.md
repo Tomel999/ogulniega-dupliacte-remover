@@ -23,7 +23,11 @@ Używa heurystyk do wyodrębniania nazw bazowych z nazw plików modów, ignoruj�
    %APPDATA%\.ogulniega\profile\mods\[NAZWA_PROFILU]
    ```
 3. W tym folderze musi znajdować się podfolder `preinstalled` z referencyjnymi modami.
-4. Uruchom skrypt:
+4. Upewnij się, że masz masz zainstalowane wszystkie pakiety.
+```bash
+pip install requests
+```
+5. Uruchom skrypt:
 
    ```bash
    python main.py
