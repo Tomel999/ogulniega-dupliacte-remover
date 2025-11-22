@@ -41,14 +41,14 @@ pip install requests
 .ogulniega/
 └── profile/
     └── mods/
-        └── moj-profil/
+        └── 1.20.1-sodium/
             ├── mod1-1.0.0.jar
             ├── mod2-1.1.0.jar
             └── preinstalled/
                 └── mod1-1.0.0.jar
 ```
 
-W tym przykładzie `mod1-1.0.0.jar` zostanie usunięty z folderu `moj-profil`, ponieważ znajduje się też w `preinstalled`.
+W tym przykładzie `mod1-1.0.0.jar` zostanie usunięty z folderu `1.20.1-sodium`, ponieważ znajduje się też w `preinstalled`.
 
 ## ⚙️ Funkcjonalności
 
